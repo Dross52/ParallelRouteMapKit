@@ -64,7 +64,7 @@ Custom MKPolylineRenderer that:
 ⸻
 
 📄 Example Usage
-<pre>
+
 ```swift
 
 import RouteMapKit
@@ -94,7 +94,7 @@ await RouteAnnotationViewModel.updateAnnotations(
     target: .segment
 )
 ```
-</pre>
+
 
 
 
