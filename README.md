@@ -101,14 +101,14 @@ await RouteAnnotationViewModel.updateAnnotations(
 ⸻
 
 🎯 Annotation Targets
-<pre>
+
 ```swift
 enum AnnotationTarget {
     case line      // Places annotations evenly along the entire polyline
     case segment   // Places annotations at each segment with optional names/colors
 }
 ```
-</pre>
+
 
 
 ⸻
