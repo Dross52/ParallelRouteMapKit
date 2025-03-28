@@ -163,3 +163,8 @@ macOS	10.15+
 
 ⸻
 
+📝 License
+
+[MIT License](https://github.com/Dross52/ParallelRouteMapKit/blob/main/LICENSE)
+
+
