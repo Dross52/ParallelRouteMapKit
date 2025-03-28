@@ -137,11 +137,3 @@ macOS	10.15+
 
 ⸻
 
-📝 License
-
-MIT License
-
-⸻
-
-If you want, I can also package this into an actual Package.swift with dependency instructions so it’s installable in one line.
-Want me to?
