@@ -1,7 +1,3 @@
-Here’s a clean and developer-friendly README.md you can use for your RouteMapKit package:
-
-⸻
-
 🗺️ RouteMapKit
 
 A Swift package for advanced, customizable, and dynamic route rendering on MapKit.
