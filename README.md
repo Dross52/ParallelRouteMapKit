@@ -53,11 +53,32 @@ Custom MKPolylineRenderer that:
 
 📸 Screenshots
 
-![Route Name Annotation - Dark Mode](./Screenshots/Name Dark Mode.png)
-
-
-
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Dross52/ParallelRouteMapKit/raw/main/Name%20Dark%20Mode.png" width="350"/>
+      <br/>
+      <strong>Dark Mode Annotation</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Dross52/ParallelRouteMapKit/raw/main/Name%20Light%20Mode.png" width="350"/>
+      <br/>
+      <strong>Light Mode Annotation</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Dross52/ParallelRouteMapKit/raw/main/Parallel%20Route%20Lines%20with%20Name.png" width="350"/>
+      <br/>
+      <strong>Parallel Routes Example 1</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Dross52/ParallelRouteMapKit/raw/main/Parallel%20RouteLines.png" width="350"/>
+      <br/>
+      <strong>Parallel Routes Example 2</strong>
+    </td>
+  </tr>
+</table>
 ⸻
 
 🧩 How It Works
