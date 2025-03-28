@@ -64,6 +64,8 @@ Custom MKPolylineRenderer that:
 ⸻
 
 📄 Example Usage
+<pre>
+```swift
 
 import RouteMapKit
 
@@ -91,18 +93,22 @@ await RouteAnnotationViewModel.updateAnnotations(
     using: [route],
     target: .segment
 )
+```
+</pre>
 
 
 
 ⸻
 
 🎯 Annotation Targets
-
+<pre>
+```swift
 enum AnnotationTarget {
     case line      // Places annotations evenly along the entire polyline
     case segment   // Places annotations at each segment with optional names/colors
 }
-
+```
+</pre>
 
 
 ⸻
